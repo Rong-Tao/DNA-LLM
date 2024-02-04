@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore the generated_data folder
+generated_data/
+
+# Ignore all .pt files
+*.pt
